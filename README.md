@@ -241,7 +241,7 @@ resolver_timeout 5s;
 
 1. Clone este repositório:
 ```bash
-git clone https://github.com/seuusuario/nginx-hardening-shield.git
+git clone https://github.com/vynazevedo/nginx-hardening-shield.git
 ```
 
 2. Copie as configurações para seu diretório Nginx:
